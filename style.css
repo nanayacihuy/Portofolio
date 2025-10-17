@@ -1,6 +1,6 @@
 body {
-  background-color: #f4f4f4;
-  color: #333;
+  background-color:#fff759e1;
+  color: #09560e;
 }
 
 .hero {
@@ -9,7 +9,7 @@ body {
   justify-content: center;
   /* padding: 50px 10%; */
   min-height: 100vh;
-  color: black;
+  color: #09560e;
 }
 
 .hero img {
@@ -17,7 +17,7 @@ body {
   height: 280px;
   object-fit: cover;
   border-radius: 50%;
-  border: 6px solid #4f46e5;
+  border: 6px solid #09560e;
   box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
   margin-right: 50px;
 }
@@ -40,8 +40,8 @@ body {
 .hero-content .btn {
   display: inline-block;
   padding: 12px 24px;
-  background: white;
-  color: #4f46e5;
+  background: rgb(255, 255, 255);
+  color: #09560e;
   font-weight: bold;
   border-radius: 8px;
   text-decoration: none;
@@ -69,7 +69,7 @@ body {
 .heading-porto {
   text-align: center;
   margin-bottom: 30px;
-  color: #333;
+  color: #09560e;
 }
 
 .grid {
@@ -81,7 +81,7 @@ body {
 }
 
 .card {
-  background: #fff;
+  background: #09560e;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   overflow: hidden;
@@ -103,15 +103,16 @@ body {
 }
 
 .card-body h3 {
+  text-align: center;
   margin: 0 0 10px;
   font-size: 18px;
-  color: #222;
+  color: #ffffff;
 }
 
 .card-body p {
   margin: 0;
   font-size: 14px;
-  color: #555;
+  color: #ffffff;
   line-height: 1.4;
 }
 
@@ -131,11 +132,11 @@ body {
 .contact-section h2 {
   font-size: 2rem;
   margin-bottom: 15px;
-  color: #333;
+  color:#09560e ;
 }
 
 .contact-section p {
-  color: #666;
+  color: #09560e;
   margin-bottom: 25px;
 }
 
@@ -148,12 +149,12 @@ body {
 
 .contact-item {
   font-size: 1rem;
-  color: #333;
+  color: #09560e;
 }
 
 .contact-item span {
   font-weight: bold;
-  color: #007bff;
+  color: #09560e;
 }
 
 .social-links {
@@ -164,18 +165,18 @@ body {
   margin: 0 10px;
   font-size: 1.2rem;
   text-decoration: none;
-  color: #007bff;
+  color: #536fab;
   transition: 0.3s;
 }
 
 .social-links a:hover {
-  color: #0056b3;
+  color: #09560e;
 }
 
 .btn-whatsapp {
   display: inline-block;
   padding: 12px 20px;
-  background: #25d366;
+  background: #09560e;
   color: #fff;
   text-decoration: none;
   border-radius: 8px;
